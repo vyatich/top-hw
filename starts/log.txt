@@ -1,0 +1,6 @@
+Log {
+socketName='/127.0.0.1:51722', 
+connectedTime=18.06.2022 13:45:11, 
+disconnectedTime=18.06.2022 13:45:27, 
+quotesList=[Chop your own wood and it will warm you twice., Work hard to get what you like, otherwise you'll be forced to just like what you get., Wise men speak because they have something to say; fools because they have to say something.]
+}
