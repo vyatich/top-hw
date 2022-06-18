@@ -1,0 +1,6 @@
+/out/
+/client/client.iml
+/server/server.iml
+/.idea/
+/server/src/META-INF/
+/client/src/META-INF/
